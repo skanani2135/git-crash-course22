@@ -1,2 +1,3 @@
 fix bug1
 wrote the below code to fix the bug
+code to optimize bug fix
