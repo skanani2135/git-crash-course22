@@ -1,1 +1,5 @@
 fix bug1
+wrote the below code to fix the bug
+Writing comments for the bug fix
+code to optimize bug fix
+adding Line 11
